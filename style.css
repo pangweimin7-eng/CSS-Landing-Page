@@ -37,6 +37,8 @@ p{
     background-color: #1F2937;
     color: #F9FAF8;
     padding: 100px 100px;
+    justify-content: center;
+
 }
 .inner-first-block {
     display: flex;
@@ -52,6 +54,7 @@ p{
     display: flex;
     margin: 45px 0px;
     gap: 25px;
+    justify-content: center;
 }
 
 .second-block img {   
